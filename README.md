@@ -3,10 +3,10 @@ Back propagation feed neural network that classifies hand written digits in C++ 
 
 # Class Project for CSCI:360 at USC 
 
-**Description**
-Task1: Simple perceptron that learns XOR table
-Task2: Used for analysis with different hyperparamters
-Task3: Back propagation feed neural network
+**Description** <br>
+Task1: Simple perceptron that learns XOR table <br>
+Task2: Used for analysis with different hyperparamters <br>
+Task3: Back propagation feed neural network <br>
 
 **How to Run Task3**
 - `cd task3`
